@@ -6,19 +6,19 @@ To write a python program to implement multivariate linear regression and predic
 2.	Anaconda – Python 3.7 Installation / Moodle-Code Runner
 ## Algorithm:
 ### Step1
-<br>
+Begin the program
 
 ### Step2
-<br>
+Import Required Libraies
 
 ### Step3
-<br>
+Load Datset
 
 ### Step4
-<br>
+Select input Features and output
 
 ### Step5
-<br>
+Create Regression model
 
 ## Program:
 ```
